@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stock-counter-ai/static/css/main.88580778.chunk.css",
+    "main.js": "/stock-counter-ai/static/js/main.544afbac.chunk.js",
+    "main.js.map": "/stock-counter-ai/static/js/main.544afbac.chunk.js.map",
+    "runtime-main.js": "/stock-counter-ai/static/js/runtime-main.dd631819.js",
+    "runtime-main.js.map": "/stock-counter-ai/static/js/runtime-main.dd631819.js.map",
+    "static/js/2.4ba1d1ee.chunk.js": "/stock-counter-ai/static/js/2.4ba1d1ee.chunk.js",
+    "static/js/2.4ba1d1ee.chunk.js.map": "/stock-counter-ai/static/js/2.4ba1d1ee.chunk.js.map",
+    "static/js/3.a86f67cf.chunk.js": "/stock-counter-ai/static/js/3.a86f67cf.chunk.js",
+    "static/js/3.a86f67cf.chunk.js.map": "/stock-counter-ai/static/js/3.a86f67cf.chunk.js.map",
+    "index.html": "/stock-counter-ai/index.html",
+    "static/css/main.88580778.chunk.css.map": "/stock-counter-ai/static/css/main.88580778.chunk.css.map",
+    "static/js/2.4ba1d1ee.chunk.js.LICENSE.txt": "/stock-counter-ai/static/js/2.4ba1d1ee.chunk.js.LICENSE.txt",
+    "static/js/main.544afbac.chunk.js.LICENSE.txt": "/stock-counter-ai/static/js/main.544afbac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/stock-counter-ai/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd631819.js",
+    "static/js/2.4ba1d1ee.chunk.js",
+    "static/css/main.88580778.chunk.css",
+    "static/js/main.544afbac.chunk.js"
+  ]
+}
